@@ -19,7 +19,7 @@ A Python-based desktop GUI application designed during my internship at SAIL to 
 - smtplib: Email functionality for sending reports
 - ttk.Treeview: Data table presentation with search filters
 - ttk.Style: Custom Light/Dark mode support
-- Sendgrid API: Sending email from primary gmail to receipients.
+- Sendgrid API: Creating APIs and Sending email from primary gmail to receipients.
 
 📐 Architecture Summary  
 **GUI Layer:** Tkinter-based interface with file selectors, action buttons, tabbed result views, and status messages.
