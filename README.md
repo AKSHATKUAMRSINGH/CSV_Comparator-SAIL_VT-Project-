@@ -5,7 +5,7 @@ Python-based GUI tool built during my internship at SAIL to compare two CSV file
 A Python-based desktop GUI application designed during my internship at SAIL to automate payroll data comparisons between two employee CSV files: a Master and a Slave. The tool identifies:
 
 - Data discrepancies in employee details (like IFSC, DOJ, DOB)
-- New Joinees absent in the Master dataset
+- New Joinees that were absent in the Master dataset but were present in the new changes file.
 - Generates well-structured PDF reports for audits and HR documentation, now with password protection for enhanced security.
 - Supports emailing the generated PDF reports directly to specified recipients.
 
