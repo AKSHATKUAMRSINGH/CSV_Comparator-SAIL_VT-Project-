@@ -2,7 +2,7 @@
 Python-based GUI tool built during my internship at SAIL to compare two CSV files and identify differences in employee data. It highlights modified records and new joiners, and generates professional PDF reports for easy data auditing and HR records management and automated payslip generation.
 
 📊 CSV Comparator (Python GUI for SAIL employees Payroll)  
-A Python-based desktop GUI application designed during my internship at SAIL to automate payroll data comparisons between two employee CSV files: a Master and a Slave. The tool identifies:
+A Python-based desktop GUI application designed during my internship at SAIL to automate payroll data comparisons between two employee CSV files: a Master and a changes files. The tool identifies:
 
 - Data discrepancies in employee details (like IFSC, DOJ, DOB)
 - New Joinees that were absent in the Master dataset but were present in the new changes file.
