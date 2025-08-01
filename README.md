@@ -7,7 +7,7 @@ A Python-based desktop GUI application designed during my internship at SAIL to 
 - Data discrepancies in employee details (like IFSC, DOJ, DOB)
 - New Joinees that were absent in the Master dataset but were present in the new changes file would be shown in a separate section .
 - Generates well-structured PDF reports for audits and HR documentation, now with password protection for enhanced security.
-- Supports emailing the generated PDF reports directly to specified recipients.
+- Supports emailing the generated PDF reports directly to specified recipients that would be gives by the user.
 
 📌 Technical Overview  
 **Framework & Libraries:**
